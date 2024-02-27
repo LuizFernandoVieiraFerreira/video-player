@@ -48,4 +48,4 @@ To run the tests, execute:
 
 If you require any further clarification or additional information regarding the code, please do not hesitate to contact me.
 
-<img src="screenshots/screenshot.gif"/>
+<img src="screenshots/player.gif"/>
