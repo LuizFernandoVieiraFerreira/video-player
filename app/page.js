@@ -26,7 +26,7 @@ export default function Home() {
     <Fragment>
       <div className="grid">
         <header>
-          <h1 className="title">Bepro</h1>
+          <h1 className="title">Player</h1>
           <Playlist
             videos={videos}
             selectedVideoIndex={selectedVideoIndex}
